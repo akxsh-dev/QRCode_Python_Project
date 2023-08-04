@@ -1,2 +1,2 @@
 # QRCode_Python_Project
-Wrote Python script which will generate a QR code which will redirect to my LinkedIn profile/
+Wrote a python script that successfully generates a QR code and upon scanning the QR code it will redirect to my LinkedIn Profile. Imported and installed necessary packages for successful debugging. Used package specific methods to create personal variables that stores the generated QR Code in the folder itself. Customized features like version, box size, border, block color and background.
