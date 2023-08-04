@@ -1,0 +1,4 @@
+Please install these packages in the terminal beforehand
+
+--pip install qrcode
+-- pip install Pillow
